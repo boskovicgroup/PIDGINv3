@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 #Author : Lewis Mervin lhm30@cam.ac.uk
 #Supervisor : Dr. A. Bender
 #All rights reserved 2018
